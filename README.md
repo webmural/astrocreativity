@@ -1,6 +1,5 @@
-## [muah mural](https://webmural.com/muah)
+## [astrocreativity mural](https://webmural.com/astrocreativity)
 
-* [mesh](https://webmural.com/dialon)
-* [universe](https://webmural.com/mu)
-* [`anywhere`](space.css)
-* [`hotpink`](spice.css)
+```
+astrocreativity = astrology * creativity
+```

@@ -1,7 +1,7 @@
 :root {
-  background: hotpink;
-  background-image: conic-gradient(hotpink, deeppink, violet, hotpink);
-  color: black;
+  background: plum;
+  background-image: linear-gradient(#ffbfff, #e0e0e0, #de1, #bee, #bae4ea);
+  color: #52a;
 }
 
 :any-link {
@@ -9,6 +9,14 @@
 }
 
 ::selection {
-  background: black;
-  color: hotpink;
+  background: #52a;
+  color: #e0e0e0;
+}
+
+b {
+  text-shadow:
+    0ch -1ex 0 #fbbfff,
+    0ch -2ex 0 #E6E,
+    0ch 1ex 0 #1ed,
+    0ch 2ex 0 #de1;
 }
